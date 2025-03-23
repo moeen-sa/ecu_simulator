@@ -1,0 +1,1 @@
+Truck ECU simulator is project to help you develope your FMS device without real truck or trailer. In this project, you can set engine RPM, collant temp and other parameters and data about user input will generate in J1939 format and will send on CAN bus
